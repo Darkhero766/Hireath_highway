@@ -16,7 +16,7 @@ RetroBeats is a modern music player disguised in a vintage body — combining th
 - Built-in speakers and headphone jack
 - Retro filters: **vinyl crackle**, **cassette hiss**, **radio buzz**
 
-### 💡 Smart Capabilities
+### 💡 Smart Capabilities(future plan)
 - **AI DJ Mode** – smart playlist suggestions based on your mood
 - **Mood lighting** – LED ring changes color by genre/mood
 
@@ -34,7 +34,7 @@ RetroBeats is a modern music player disguised in a vintage body — combining th
 ## ⚙️ Tech Stack
 
 ### 🧠 Hardware
-- **ESP32 / Raspberry Pi Zero/Pico W**
+- **Raspberry Pi Zero**
 - **0.96" OLED Display**
 - **PCM5102 / I2S DAC Module**
 - **18650 Li-ion Battery + TP4056 Charger**
@@ -56,10 +56,10 @@ RetroBeats is a modern music player disguised in a vintage body — combining th
 
 ## 📐 Assembly Overview
 
-1. Design your vintage enclosure (wood/plastic/3D print).
-2. Mount the main board, display, and speaker inside.
+1. vintage enclosure (wood/plastic/3D print).
+2. main board, display, and speaker inside.
 3. Solder connections for buttons, encoders, and power circuits.
-4. Flash your code and test each module.
+4. code and test each module.
 5. Decorate the exterior with vintage stickers or engravings!
 
 
