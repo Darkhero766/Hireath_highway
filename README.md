@@ -21,6 +21,7 @@ It is an Antique music player with modern Tech which provide retro and old vibes
 - df player mini ~ 6$
 - push button/auido jack/rotary encoder ~6$
 - Tp4056 + battery ~ 4$
+- Wood colour spray ~ 3$
 
 
 
