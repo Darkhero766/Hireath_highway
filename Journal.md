@@ -15,5 +15,10 @@ Created 3d print design for this player with tinkercad because it it only tha i 
  **Total hour spent ~1 hour**
 
  ## May 19-20 - Done parts research 
+ Collect all parts info an their pricing 
+ 
+ No image 
+ 
+ **Total hour spent ~ 1-2**
 
  
