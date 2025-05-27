@@ -15,12 +15,9 @@ It is an Antique music player with modern Tech which provide retro and old vibes
 - Powerbank ~ 39$
 - displays ~ 52$
 - wood ~ 6$
-- carpentry tool ~ 30$
-- esp32 wroom 32 ~ 6$
+- carpentry tool ~ 10
 - speaker ~ 6$
-- df player mini ~ 6$
-- push button/auido jack/rotary encoder ~6$
-- Tp4056 + battery ~ 4$
+- push button/rotary encoder ~6$
 - Wood colour spray ~ 3$
 
 
