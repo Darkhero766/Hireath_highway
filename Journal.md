@@ -21,4 +21,8 @@ Created 3d print design for this player with tinkercad because it it only tha i 
  
  **Total hour spent ~ 1-2**
 
+ ## May 26 -27 : Redesign 3d model
+
+ redesign my 3d model for music player decided to reduce cost by removing portable mp3 player 
+
  
