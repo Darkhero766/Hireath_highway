@@ -11,11 +11,11 @@ It is an Antique music player with modern Tech which provide retro and old vibes
 - OLEDdisplay on both units
 
 ### 💲Material (Bom)
-- Raspberry Pi zero 2w ~ 22$
-- Powerbank ~ 39$
+- Raspberry Pi 3 ~ 44$
+- Powerbank ~ 27$
 - displays ~ 52$
 - wood ~ 6$
-- carpentry tool ~ 10
+- carpentry tool ~ 10$
 - speaker ~ 6$
 - push button/rotary encoder ~6$
 - Wood colour spray ~ 3$
