@@ -6,7 +6,9 @@ It is an Antique music player with modern Tech which provide retro and old vibes
 
 
 ### Motivation 
-I am an antique lover and love wuth sounds that's why it come to mind mind a t first to make retro antique music player.
+I am an antique lover and love with sounds that's why it come to mind mind a t first to make retro antique music player.
+I love to listen religious recitation so it  give me motivation of making something peaceful and pure vibes with wooden texture.
+I also added modern touch to beautify it.
 
 ### 💭Design
 - Antique and retro design for both units (big and mini).
