@@ -26,3 +26,6 @@ Created 3d print design for this player with tinkercad because it it only tha i 
  redesign my 3d model for music player decided to reduce cost by removing portable mp3 player 
 
  
+
+ ![IMG_1623](https://github.com/user-attachments/assets/0cedb615-fa19-42d7-8d11-7b7a71029840)
+
