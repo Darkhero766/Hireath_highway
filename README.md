@@ -10,10 +10,17 @@ I am an antique lover and love with sounds that's why it come to mind mind a t f
 I love to listen religious recitation so it  give me motivation of making something peaceful and pure vibes with wooden texture.
 I also added modern touch to beautify it.
 
+
 ### 💭Design
 - Antique and retro design for both units (big and mini).
 - Wooden box 
 - OLEDdisplay on both units
+
+### Fit:
+- The oled display comes on top for scrolling between sounds.
+- There's a retro rotary encoder for volume on side of player
+- inside there's raspberry Pi powered by powerbank and connected to speakers.
+- 
 
 ### 💲Material (Bom)
 - Raspberry Pi 3 ~ 44$
