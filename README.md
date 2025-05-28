@@ -2,6 +2,8 @@
 
 It is an Antique music player with modern Tech which provide retro and old vibes. It also has an detachable mini mp3 player for an individual use .
 ---
+![IMG_1623](https://github.com/user-attachments/assets/f8b4f180-7298-4c4a-980c-25c9faa83065)
+
 
 
 
