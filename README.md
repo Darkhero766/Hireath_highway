@@ -5,7 +5,8 @@ It is an Antique music player with modern Tech which provide retro and old vibes
 ![IMG_1623](https://github.com/user-attachments/assets/f8b4f180-7298-4c4a-980c-25c9faa83065)
 
 
-
+### Motivation 
+I am an antique lover and love wuth sounds that's why it come to mind mind a t first to make retro antique music player.
 
 ### 💭Design
 - Antique and retro design for both units (big and mini).
